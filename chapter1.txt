@@ -1,0 +1,3 @@
+Date: 11/8/22
+
++ Blockchain Oracle: any device that interacts with the off-chain world to provide external data or computation to smart contracts.
